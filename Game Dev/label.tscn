@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://mf3mn8fxjre1"]
+
+[node name="Label" type="Label"]
+offset_left = 431.0
+offset_top = 296.0
+offset_right = 653.0
+offset_bottom = 319.0
+text = "UnYieldinSpirit's First Game?"
